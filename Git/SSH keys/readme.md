@@ -1,4 +1,4 @@
-ssue# Setting up SSH keys
+# Setting up SSH keys
 > There are a million different sites on how to create SSH Keys but this is a cheat sheet for making keys quickly 
 
 
