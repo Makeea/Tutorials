@@ -15,7 +15,7 @@
 Add more general information about project. What the purpose of the project is? Motivation?
 
 ## Screenshots
-![Example screenshot](./img/package center git server.png)
+![Example screenshot](./img/American-shorthair-cat.jpg)
 
 ## Technologies
 * Tech 1 - version 1.0
